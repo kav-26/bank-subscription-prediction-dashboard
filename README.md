@@ -81,6 +81,64 @@ Development Environment:
 
 Version Control:
 - Git & GitHub
+  
+## 📊 Dashboard Screenshots
+
+Below are some previews of the interactive Streamlit dashboard built for the Bank Subscription Prediction project.
+
+---
+
+### 🏠 Dashboard Home
+This is the main landing page of the dashboard that introduces the project and provides navigation to the analytics and prediction sections.
+
+![Dashboard Home](screenshots/dashboard_home.png)
+
+---
+
+### 📈 Exploratory Data Analysis
+This section provides visual insights into the dataset to understand customer behavior and campaign characteristics.
+
+![EDA Analysis](screenshots/eda_analysis.png)
+
+![EDA Analysis 2](screenshots/eda_analysis2.png)
+
+---
+
+### 🔍 Correlation Heatmap
+The correlation heatmap helps identify relationships between numerical variables in the dataset and highlights patterns useful for feature analysis.
+
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
+---
+
+### ⏱ Call Duration vs Subscription
+This visualization shows how call duration relates to the likelihood of customer subscription. It helps understand engagement patterns during marketing calls.
+
+![Call Duration vs Subscription](screenshots/call_duration_vs_subscription.png)
+
+---
+
+### 🤖 Model Performance
+This section displays the evaluation metrics of the trained machine learning model including accuracy, precision, recall, and ROC-AUC score.
+
+![Model Performance](screenshots/model_performance.png)
+
+![Final Model Performance](screenshots/final_model_performance2.png)
+
+---
+
+### 🎯 What-If Campaign Simulator
+The campaign simulator allows users to modify customer attributes and observe how the predicted probability of subscription changes.
+
+![Campaign Simulator](screenshots/campaign_simulator.png)
+
+---
+
+### 📊 Campaign Subscription Probability
+This view shows the predicted probability of a customer subscribing based on the selected campaign parameters.
+
+![Campaign Simulator Probability](screenshots/campaign_simulator_probability.png)
+
 
 ## Results
 
